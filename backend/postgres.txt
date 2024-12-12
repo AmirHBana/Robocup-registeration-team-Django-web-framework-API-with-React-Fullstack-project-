@@ -1,0 +1,3 @@
+CREATE EXTENSION pg_trgm;
+ALTER DATABASE your_database_name SET lc_ctype TO 'fa_IR.utf8';
+ALTER DATABASE your_database_name SET lc_collate TO 'fa_IR.utf8';
