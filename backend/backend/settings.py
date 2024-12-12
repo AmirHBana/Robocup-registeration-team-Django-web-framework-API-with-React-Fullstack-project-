@@ -340,4 +340,4 @@ JAZZMIN_UI_TWEAKS = {
 # EMAIL_USE_TLS = True
 #
 # EMAIL_HOST_USER = 'amir666arrow@gmail.com'
-# EMAIL_HOST_PASSWORD = 'xfjmaxmziavvriyd'
+# EMAIL_HOST_PASSWORD = ''
