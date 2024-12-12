@@ -104,9 +104,9 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'robocupbackend',
-        'USER': 'amirhbana',
-        'PASSWORD': 'ali0150076088',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
@@ -118,8 +118,8 @@ DATABASES = {
 #         'ENGINE': 'django.db.backends.postgresql',
 #         'NAME': 'root',
 #         'USER': 'postgres',
-#         'PASSWORD': 'zFdGBG9o3BGiYlJPFldvsiLl',
-#         'HOST': 'robucup2024postgresql',
+#         'PASSWORD': '',
+#         'HOST': '',
 #         'PORT': '5432',
 #     }
 # }
