@@ -1,4 +1,4 @@
-<h2><strong> Start Run Learning-management-system With Django (dj) and React dev-tool ViteJS project </strong></h2>
+<h2><strong> Start Run Robocup-management-team With Django (dj) and React dev-tool ViteJS project </strong></h2>
 
 <hr>
 <br>
@@ -16,7 +16,7 @@
 <p> At first you need go to the directory you want to clone this project </p>
 <br>
 
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Learning-management-system-Django-web-framework-API-with-React-Fullstack-project-.gitt</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Robocup-registeration-team-Django-web-framework-API-with-React-Fullstack-project-.git</pre></div>
 
 <br><br>
 
