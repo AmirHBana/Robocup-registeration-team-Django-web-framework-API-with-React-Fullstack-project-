@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vite,react,django,pycharm,sqlite" />
+    <img src="https://skillicons.dev/icons?i=py,vite,react,django,pycharm,postgresql" />
   </a>
 </p>
 
